@@ -1,6 +1,7 @@
 __pycache__/
 __init__.py
 .pytest_cache/
+actions-runner/
 *.pyc
 *.pyo
 *.pyd
